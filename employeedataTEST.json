@@ -1,0 +1,73 @@
+[
+ 
+    {
+        "employeeName": "John Doe",
+        "age": 30,
+        "salaryAmount": 60000,
+        "email": "john.doe@example.com",
+        "degreeDetails": ["BS", "MS"]
+      },
+      {
+        "employeeName": "Jane Smith",
+        "age": 25,
+        "salaryAmount": 55000,
+        "email": "jane.smith@example.com",
+        "degreeDetails": ["BSc", "MSc"]
+      },
+      {
+        "employeeName": "Michael Johnson",
+        "age": 28,
+        "salaryAmount": 62000,
+        "email": "michael.johnson@example.com",
+        "degreeDetails": ["BA", "MA"]
+      },
+      {
+        "employeeName": "Emily Williams",
+        "age": 29,
+        "salaryAmount": 58000,
+        "email": "emily.williams@example.com",
+        "degreeDetails": ["BEng", "MEng"]
+      },
+      {
+        "employeeName": "David Brown",
+        "age": 32,
+        "salaryAmount": 65000,
+        "email": "david.brown@example.com",
+        "degreeDetails": ["BCom", "MCom"]
+      },
+      {
+        "employeeName": "Olivia Jones",
+        "age": 26,
+        "salaryAmount": 56000,
+        "email": "olivia.jones@example.com",
+        "degreeDetails": ["BBA", "MBA"]
+      },
+      {
+        "employeeName": "William Wilson",
+        "age": 27,
+        "salaryAmount": 59000,
+        "email": "william.wilson@example.com",
+        "degreeDetails": ["BE", "ME"]
+      },
+      {
+        "employeeName": "Sophia Davis",
+        "age": 31,
+        "salaryAmount": 63000,
+        "email": "sophia.davis@example.com",
+        "degreeDetails": ["BSc", "MSc"]
+      },
+      {
+        "employeeName": "Liam Martinez",
+        "age": 24,
+        "salaryAmount": 54000,
+        "email": "liam.martinez@example.com",
+        "degreeDetails": ["BSc", "MSc"]
+      },
+      {
+        "employeeName": "Isabella Garcia",
+        "age": 33,
+        "salaryAmount": 67000,
+        "email": "isabella.garcia@example.com",
+        "degreeDetails": ["BA", "MA"]
+      }
+  ]
